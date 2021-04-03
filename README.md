@@ -8,7 +8,7 @@
    $ apt install python 
    ```
    ```
-   $ git clone 
+   $ git clone https://github.com/darkhunter141/kali-installer
    ```
    ```
    $ cd kali-installer
