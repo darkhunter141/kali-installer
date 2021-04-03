@@ -14,7 +14,7 @@
    $ cd kali-installer
    ```
    ```
-   $ python2 Kali-Installer
+   $ python2 kali-installer.py
 ```
 
 This will take too much time it's depends on your data connection. 
