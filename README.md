@@ -5,7 +5,7 @@
    $ apt install git 
    ```
    ```
-   $ apt install python 
+   $ apt install python2 
    ```
    ```
    $ git clone https://github.com/darkhunter141/kali-installer
